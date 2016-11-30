@@ -1,5 +1,0 @@
-C:\PROJECT\git-testForCI\TestLibaryForCi\WebApplication1\bin\WebApplication1.dll
-C:\PROJECT\git-testForCI\TestLibaryForCi\WebApplication1\bin\WebApplication1.pdb
-C:\PROJECT\git-testForCI\TestLibaryForCi\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
-C:\PROJECT\git-testForCI\TestLibaryForCi\WebApplication1\obj\Debug\WebApplication1.dll
-C:\PROJECT\git-testForCI\TestLibaryForCi\WebApplication1\obj\Debug\WebApplication1.pdb
