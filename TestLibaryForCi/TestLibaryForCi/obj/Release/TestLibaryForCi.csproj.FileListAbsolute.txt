@@ -1,5 +1,4 @@
 C:\PROJECT\git-testForCI\TestLibaryForCi\TestLibaryForCi\bin\Release\TestLibaryForCi.dll
 C:\PROJECT\git-testForCI\TestLibaryForCi\TestLibaryForCi\bin\Release\TestLibaryForCi.pdb
-C:\PROJECT\git-testForCI\TestLibaryForCi\TestLibaryForCi\obj\Release\TestLibaryForCi.csprojResolveAssemblyReference.cache
 C:\PROJECT\git-testForCI\TestLibaryForCi\TestLibaryForCi\obj\Release\TestLibaryForCi.dll
 C:\PROJECT\git-testForCI\TestLibaryForCi\TestLibaryForCi\obj\Release\TestLibaryForCi.pdb
