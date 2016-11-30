@@ -12,5 +12,9 @@ namespace TestLibaryForCi
         {
             return "My Name Is Edison";
         }
+        public string GetEmailById() 
+        {
+            return "My Email is Test@test.cc";
+        }
     }
 }
