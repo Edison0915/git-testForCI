@@ -9,7 +9,7 @@ namespace ClassLibraryForCi
     {
         public string GetName() 
         {
-            return 1;
+            return "My Name is Edison";
         }
     }
 }
