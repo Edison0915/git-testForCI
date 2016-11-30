@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibaryForCi", "TestLibaryForCi\TestLibaryForCi.csproj", "{671DB54F-B5DB-4D11-AF5D-13791A55BFEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcApplication1\MvcApplication1.csproj", "{DAB8CF84-0A1A-4BC9-9E73-5E3BF4424F08}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetWeb", "AspNetWeb\AspNetWeb.csproj", "{BF114C31-A545-456D-A93C-98119B1C191A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,10 @@ Global
 		{671DB54F-B5DB-4D11-AF5D-13791A55BFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{671DB54F-B5DB-4D11-AF5D-13791A55BFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{671DB54F-B5DB-4D11-AF5D-13791A55BFEB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DAB8CF84-0A1A-4BC9-9E73-5E3BF4424F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DAB8CF84-0A1A-4BC9-9E73-5E3BF4424F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DAB8CF84-0A1A-4BC9-9E73-5E3BF4424F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DAB8CF84-0A1A-4BC9-9E73-5E3BF4424F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF114C31-A545-456D-A93C-98119B1C191A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF114C31-A545-456D-A93C-98119B1C191A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF114C31-A545-456D-A93C-98119B1C191A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF114C31-A545-456D-A93C-98119B1C191A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
