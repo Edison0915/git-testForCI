@@ -7,3 +7,4 @@ C:\PROJECT\git-testForCI\TestLibaryForCi\TestLibaryForCi\bin\Debug\TestLibaryFor
 C:\PROJECT\git-testForCI\TestLibaryForCi\TestLibaryForCi\bin\Debug\TestLibaryForCi.pdb
 C:\PROJECT\git-testForCI\TestLibaryForCi\TestLibaryForCi\obj\Debug\TestLibaryForCi.dll
 C:\PROJECT\git-testForCI\TestLibaryForCi\TestLibaryForCi\obj\Debug\TestLibaryForCi.pdb
+C:\PROJECT\git-testForCI\TestLibaryForCi\TestLibaryForCi\obj\Debug\TestLibaryForCi.csprojResolveAssemblyReference.cache
