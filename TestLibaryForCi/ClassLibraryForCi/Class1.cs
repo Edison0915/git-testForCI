@@ -7,9 +7,14 @@ namespace ClassLibraryForCi
 {
     public class Class1
     {
-        public string GetName() 
+        public string GetName(string name)
         {
-            return "My Name is Edison";
+            return "My Name is " + name;
+        }
+
+        public int Add(int a, int b)
+        {
+            return a + b;
         }
     }
 }

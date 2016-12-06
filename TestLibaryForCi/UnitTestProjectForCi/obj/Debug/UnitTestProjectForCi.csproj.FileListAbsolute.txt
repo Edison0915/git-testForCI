@@ -1,0 +1,7 @@
+C:\PROJECT\git-testForCI\TestLibaryForCi\UnitTestProjectForCi\bin\Debug\UnitTestProjectForCi.dll
+C:\PROJECT\git-testForCI\TestLibaryForCi\UnitTestProjectForCi\bin\Debug\UnitTestProjectForCi.pdb
+C:\PROJECT\git-testForCI\TestLibaryForCi\UnitTestProjectForCi\bin\Debug\ClassLibraryForCi.dll
+C:\PROJECT\git-testForCI\TestLibaryForCi\UnitTestProjectForCi\bin\Debug\ClassLibraryForCi.pdb
+C:\PROJECT\git-testForCI\TestLibaryForCi\UnitTestProjectForCi\obj\Debug\UnitTestProjectForCi.csprojResolveAssemblyReference.cache
+C:\PROJECT\git-testForCI\TestLibaryForCi\UnitTestProjectForCi\obj\Debug\UnitTestProjectForCi.dll
+C:\PROJECT\git-testForCI\TestLibaryForCi\UnitTestProjectForCi\obj\Debug\UnitTestProjectForCi.pdb

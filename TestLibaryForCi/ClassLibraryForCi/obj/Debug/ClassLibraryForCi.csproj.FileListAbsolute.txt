@@ -1,5 +1,4 @@
 C:\PROJECT\git-testForCI\TestLibaryForCi\ClassLibraryForCi\bin\Debug\ClassLibraryForCi.dll
 C:\PROJECT\git-testForCI\TestLibaryForCi\ClassLibraryForCi\bin\Debug\ClassLibraryForCi.pdb
-C:\PROJECT\git-testForCI\TestLibaryForCi\ClassLibraryForCi\obj\Debug\ClassLibraryForCi.csprojResolveAssemblyReference.cache
 C:\PROJECT\git-testForCI\TestLibaryForCi\ClassLibraryForCi\obj\Debug\ClassLibraryForCi.dll
 C:\PROJECT\git-testForCI\TestLibaryForCi\ClassLibraryForCi\obj\Debug\ClassLibraryForCi.pdb
