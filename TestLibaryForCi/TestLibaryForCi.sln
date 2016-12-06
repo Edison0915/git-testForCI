@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryForCi", "ClassLibraryForCi\ClassLibraryForCi.csproj", "{FB8F0A7A-AFB4-4627-8066-E55B3E15B8AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcApplication1\MvcApplication1.csproj", "{83B26A4B-8AC2-4348-935D-C15DA165D65A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{FB8F0A7A-AFB4-4627-8066-E55B3E15B8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB8F0A7A-AFB4-4627-8066-E55B3E15B8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB8F0A7A-AFB4-4627-8066-E55B3E15B8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B26A4B-8AC2-4348-935D-C15DA165D65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B26A4B-8AC2-4348-935D-C15DA165D65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B26A4B-8AC2-4348-935D-C15DA165D65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B26A4B-8AC2-4348-935D-C15DA165D65A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
